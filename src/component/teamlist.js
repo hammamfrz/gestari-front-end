@@ -10,7 +10,7 @@ function Teamlist() {
             Our team
           </h2>
         </div>
-        <div class="grid gap-8 lg:gap-16 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4">
+        <div class="grid gap-8 lg:gap-16 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-5">
           <div class="text-center text-gray-500 dark:text-gray-400">
             <img
               class="mx-auto mb-4 w-36 h-36 rounded-full object-cover"
